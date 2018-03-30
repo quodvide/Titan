@@ -1,0 +1,7 @@
+<cluster xmlns="http://rise.cs.drexel.edu/minos/clsx">
+<group name="root">
+<group name="edu.drexel.cs.rise.moka.model.Attribute">
+<item name="edu.drexel.cs.rise.moka.model.Attribute" />
+</group>
+</group>
+</cluster>
